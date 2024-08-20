@@ -1,2 +1,0 @@
-*.so filter=lfs diff=lfs merge=lfs -text
-OVRAssetBundles/OVRMasterBundle/asset_fbx0 filter=lfs diff=lfs merge=lfs -text
